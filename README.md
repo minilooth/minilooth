@@ -1,19 +1,31 @@
 ### Hi 👋, I'm Matvei! I'm a fullstack developer.
 
 📍Location: Minsk, Belarus
+👨‍💻Currently working in: Military Academy of Republic of Belarus (IT Department)
 
-📫How to reach me:
+⚡Stack:
 
-<a href="https://linkedin.com/in/minilooth" target="blank">
-<div style="display: flex; align-items: center; flex-direction: row">
+  ----- backend -----
+  1. Java 8+
+  2. Spring Framework (Boot, Data, JPA, Security, Web)
+  3. MySQL, PostgreSQL, MongoDB
   
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minilooth" height="16" width="16" />
-  <span>minilooth</span>
-</div>
+  ----- frontend ----
+  1. JavaScript, TypeScript
+  2. React (inc. Next.js), Angular
+  3. MaterialUI, Bootstrap
+  4. HTML5, CSS3 (SCSS)
+  5. Node.js
+  6. Redux
   
-</a>
+  ----- other -------
+  1. Git
+  2. Docker
+  3. Postman
+  4. Photoshop
+
+📫How to reach me: <a href="https://t.me/minilooth">Telegram</a> <a href="https://instagram.com/minilooth">Instagram</a> <a href="https://www.linkedin.com/in/minilooth>LinkedIn</a>
   
-<a href="https://instagram.com/minilooth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minilooth" height="16" width="16" />minilooth</a>
 <!--
 **minilooth/minilooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
