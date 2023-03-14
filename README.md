@@ -24,7 +24,7 @@
   3. Postman
   4. Photoshop
 
-📫How to reach me: <a href="https://t.me/minilooth">Telegram</a> <a href="https://instagram.com/minilooth">Instagram</a> <a href="https://www.linkedin.com/in/minilooth>LinkedIn</a>
+📫How to reach me: <a href="https://t.me/minilooth">Telegram</a> <a href="https://instagram.com/minilooth">Instagram</a> <a href="https://www.linkedin.com/in/minilooth">LinkedIn</a>
   
 <!--
 **minilooth/minilooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
