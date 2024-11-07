@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Matvei! I'm a fullstack developer.
 
 📍Location: Minsk, Belarus\
-👨‍💻Currently working in: Military Academy of Republic of Belarus (IT Department)
+👨‍💻Currently working in: T-Bank
 
 ⚡Stack:
 
